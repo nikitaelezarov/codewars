@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f404067c-a155-4c7e-ae84-3928beff6113" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/8kyu/Convert boolean.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8kyu/Grasshopper - Terminal.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8kyu/Grasshopper-terminal.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8kyu/Return Negative.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8kyu/Integer-Array.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8kyu/Sum-Array.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -34,33 +32,35 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "Node.js.Convert boolean.js.executor": "Run",
-    "Node.js.Grasshopper - Terminal.js.executor": "Run",
-    "Node.js.Grasshopper-terminal.js.executor": "Run",
-    "Node.js.Multiply.js.executor": "Run",
-    "Node.js.Return Negative.js.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/sanbox/codewars/8kyu",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Node.js.Convert boolean.js.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.Grasshopper - Terminal.js.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.Grasshopper-terminal.js.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.Integer-Array.js.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.Multiply.js.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.Return Negative.js.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.Sum-Array.js.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/sanbox/codewars/8kyu&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\sanbox\codewars\8kyu" />
     </key>
   </component>
-  <component name="RunManager" selected="Node.js.Grasshopper - Terminal.js">
+  <component name="RunManager" selected="Node.js.Integer-Array.js">
     <configuration name="Convert boolean.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/8kyu/Convert boolean.js" working-dir="$PROJECT_DIR$/8kyu">
       <method v="2" />
     </configuration>
@@ -70,19 +70,19 @@
     <configuration name="Grasshopper-terminal.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/8kyu/Grasshopper-terminal.js" working-dir="$PROJECT_DIR$/8kyu">
       <method v="2" />
     </configuration>
-    <configuration name="Multiply.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/8kyu/Multiply.js" working-dir="$PROJECT_DIR$/8kyu">
+    <configuration name="Integer-Array.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/8kyu/Integer-Array.js" working-dir="$PROJECT_DIR$/8kyu">
       <method v="2" />
     </configuration>
-    <configuration name="Return Negative.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/8kyu/Return Negative.js" working-dir="$PROJECT_DIR$/8kyu">
+    <configuration name="Sum-Array.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/8kyu/Sum-Array.js" working-dir="$PROJECT_DIR$/8kyu">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.Integer-Array.js" />
+        <item itemvalue="Node.js.Sum-Array.js" />
         <item itemvalue="Node.js.Grasshopper - Terminal.js" />
         <item itemvalue="Node.js.Grasshopper-terminal.js" />
         <item itemvalue="Node.js.Convert boolean.js" />
-        <item itemvalue="Node.js.Return Negative.js" />
-        <item itemvalue="Node.js.Multiply.js" />
       </list>
     </recent_temporary>
   </component>
@@ -104,7 +104,13 @@
       <workItem from="1760889371450" duration="5940000" />
       <workItem from="1760895581367" duration="12000" />
       <workItem from="1761138074625" duration="2205000" />
-      <workItem from="1761140319557" duration="5234000" />
+      <workItem from="1761140319557" duration="6358000" />
+      <workItem from="1761151969736" duration="667000" />
+      <workItem from="1761671040848" duration="442000" />
+      <workItem from="1761671558386" duration="533000" />
+      <workItem from="1761672172062" duration="4096000" />
+      <workItem from="1761676370212" duration="2336000" />
+      <workItem from="1761678768754" duration="381000" />
     </task>
     <servers />
   </component>
