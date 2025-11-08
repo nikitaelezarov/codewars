@@ -5,10 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f404067c-a155-4c7e-ae84-3928beff6113" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/8kyu/if-function.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8kyu/sum-yss.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8kyu/an object.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8kyu/object in array.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8kyu/types--Object.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/8kyu/convert-nimber.js" beforeDir="false" afterPath="$PROJECT_DIR$/8kyu/convert-number.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,10 +45,14 @@
     &quot;Node.js.Return Negative.js.executor&quot;: &quot;Run&quot;,
     &quot;Node.js.Reversed-Strings.js.executor&quot;: &quot;Run&quot;,
     &quot;Node.js.Sum-Array.js.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.an object.js.executor&quot;: &quot;Run&quot;,
     &quot;Node.js.an-array.js.executor&quot;: &quot;Run&quot;,
     &quot;Node.js.convert-nimber.js.executor&quot;: &quot;Run&quot;,
     &quot;Node.js.if-function.js.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.object in array.js.executor&quot;: &quot;Run&quot;,
     &quot;Node.js.sum-arrayss.js.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.sum-yss.js.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.types--Object.js.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
@@ -67,29 +71,29 @@
       <recent name="C:\sanbox\codewars\8kyu" />
     </key>
   </component>
-  <component name="RunManager" selected="Node.js.sum-yss.js">
-    <configuration name="Reversed-Strings.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/8kyu/Reversed-Strings.js" working-dir="$PROJECT_DIR$/8kyu">
-      <method v="2" />
-    </configuration>
-    <configuration name="an-array.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/8kyu/an-array.js" working-dir="$PROJECT_DIR$/8kyu">
-      <method v="2" />
-    </configuration>
-    <configuration name="convert-number.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/8kyu/convert-number.js" working-dir="$PROJECT_DIR$/8kyu">
+  <component name="RunManager" selected="Node.js.an object.js">
+    <configuration name="an object.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/8kyu/an object.js" working-dir="$PROJECT_DIR$/8kyu">
       <method v="2" />
     </configuration>
     <configuration name="if-function.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/8kyu/if-function.js" working-dir="$PROJECT_DIR$/8kyu">
       <method v="2" />
     </configuration>
+    <configuration name="object in array.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/8kyu/object in array.js" working-dir="$PROJECT_DIR$/8kyu">
+      <method v="2" />
+    </configuration>
     <configuration name="sum-yss.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/8kyu/sum-yss.js" working-dir="$PROJECT_DIR$/8kyu">
+      <method v="2" />
+    </configuration>
+    <configuration name="types--Object.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/8kyu/types--Object.js" working-dir="$PROJECT_DIR$/8kyu">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.an object.js" />
+        <item itemvalue="Node.js.object in array.js" />
+        <item itemvalue="Node.js.types--Object.js" />
         <item itemvalue="Node.js.sum-yss.js" />
         <item itemvalue="Node.js.if-function.js" />
-        <item itemvalue="Node.js.convert-number.js" />
-        <item itemvalue="Node.js.Reversed-Strings.js" />
-        <item itemvalue="Node.js.an-array.js" />
       </list>
     </recent_temporary>
   </component>
@@ -132,6 +136,23 @@
       <workItem from="1762113341291" duration="2580000" />
       <workItem from="1762167637934" duration="4308000" />
       <workItem from="1762189417071" duration="1654000" />
+      <workItem from="1762191448311" duration="1143000" />
+      <workItem from="1762198503579" duration="1517000" />
+      <workItem from="1762255749087" duration="641000" />
+      <workItem from="1762537149887" duration="23000" />
+      <workItem from="1762541471671" duration="2656000" />
+      <workItem from="1762545122218" duration="221000" />
+      <workItem from="1762545491466" duration="1052000" />
+      <workItem from="1762546575673" duration="122000" />
+      <workItem from="1762590285975" duration="1513000" />
+      <workItem from="1762592084543" duration="3738000" />
+      <workItem from="1762596792772" duration="3704000" />
+      <workItem from="1762605418762" duration="563000" />
+      <workItem from="1762606001884" duration="1097000" />
+      <workItem from="1762607135184" duration="125000" />
+      <workItem from="1762607285983" duration="9000" />
+      <workItem from="1762607307525" duration="360000" />
+      <workItem from="1762607692251" duration="2377000" />
     </task>
     <servers />
   </component>
