@@ -7,25 +7,32 @@
 
 //✔🐱‍🚀❤SOLUTION
 function addProperty(obj, prop, value) {
-    // Проверяем, что свойства еще нет в объекте
-    if(obj && prop && !(prop in obj)) {
-        obj[prop] = value;
-        return obj;
-    }else{
-        throw new Error("Property already exists or invalid parameters")
-    }
+    if(obj[prop] === undefined){
+        obj[prop] = value
+    }else
+         throw new Error()
 }
+// function addProperty(obj, prop, value) {
+//     // Проверяем, что свойства еще нет в объекте
+//     if(obj && prop && !(prop in obj)) {
+//         obj[prop] = value;
+//         return obj;
+//     }else{
+//         throw new Error("Property already exists or invalid parameters")
+//     }
+// }
 const person = { name: "Palle" };
 addProperty(person, "age", 30);
 console.log(person); // { name: "Palle", age: 30 }
 console.log(person.name === "Palle"); // true
 console.log(person.name === "Dylan"); // false
+//
+// // function addProperty(obj, prop, value) {
+// //     if (prop in obj) throw new Error()
+// //     obj[prop] = value
+// // }
+// // throw new Error('Error message')
+// // throw "Error2"; // генерирует исключение, значением которого является строка
+// // throw 42; // генерирует исключение, значением которого является число 42
+// // throw true; // генерирует исключение, значением которого является логическое значение true
 
-// function addProperty(obj, prop, value) {
-//     if (prop in obj) throw new Error()
-//     obj[prop] = value
-// }
-// throw new Error('Error message')
-// throw "Error2"; // генерирует исключение, значением которого является строка
-// throw 42; // генерирует исключение, значением которого является число 42
-// throw true; // генерирует исключение, значением которого является логическое значение true
