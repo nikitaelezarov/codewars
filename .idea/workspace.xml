@@ -5,11 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f404067c-a155-4c7e-ae84-3928beff6113" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/8kyu/Descending-order.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8kyu/list-filtering.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8kyu/sum-number.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8kyu/Begineer-Map.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8kyu/Friend or Foe.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8kyu/Merge two sorted arrays.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8kyu/Sort array.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/8kyu/an object.js" beforeDir="false" afterPath="$PROJECT_DIR$/8kyu/an object.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,14 +38,18 @@
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Node.js.Array-plus-array.js.executor": "Run",
+    "Node.js.Begineer-Map.js.executor": "Run",
     "Node.js.Convert boolean.js.executor": "Run",
     "Node.js.Descending-order.js.executor": "Run",
+    "Node.js.Friend or Foe.js.executor": "Run",
     "Node.js.Grasshopper - Terminal.js.executor": "Run",
     "Node.js.Grasshopper-terminal.js.executor": "Run",
     "Node.js.Integer-Array.js.executor": "Run",
+    "Node.js.Merge two sorted arrays.js.executor": "Run",
     "Node.js.Multiply.js.executor": "Run",
     "Node.js.Return Negative.js.executor": "Run",
     "Node.js.Reversed-Strings.js.executor": "Run",
+    "Node.js.Sort array.js.executor": "Run",
     "Node.js.Sum-Array.js.executor": "Run",
     "Node.js.an object.js.executor": "Run",
     "Node.js.an-array.js.executor": "Run",
@@ -76,29 +80,29 @@
       <recent name="C:\sanbox\codewars\8kyu" />
     </key>
   </component>
-  <component name="RunManager" selected="Node.js.Descending-order.js">
+  <component name="RunManager" selected="Node.js.Sort array.js">
+    <configuration name="Begineer-Map.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/8kyu/Begineer-Map.js" working-dir="$PROJECT_DIR$/8kyu">
+      <method v="2" />
+    </configuration>
     <configuration name="Descending-order.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/8kyu/Descending-order.js" working-dir="$PROJECT_DIR$/8kyu">
       <method v="2" />
     </configuration>
-    <configuration name="an object.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/8kyu/an object.js" working-dir="$PROJECT_DIR$/8kyu">
+    <configuration name="Friend or Foe.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/8kyu/Friend or Foe.js" working-dir="$PROJECT_DIR$/8kyu">
       <method v="2" />
     </configuration>
-    <configuration name="list-filtering.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/8kyu/list-filtering.js" working-dir="$PROJECT_DIR$/8kyu">
+    <configuration name="Merge two sorted arrays.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/8kyu/Merge two sorted arrays.js" working-dir="$PROJECT_DIR$/8kyu">
       <method v="2" />
     </configuration>
-    <configuration name="object in array.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/8kyu/object in array.js" working-dir="$PROJECT_DIR$/8kyu">
-      <method v="2" />
-    </configuration>
-    <configuration name="sum-number.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/8kyu/sum-number.js" working-dir="$PROJECT_DIR$/8kyu">
+    <configuration name="Sort array.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/8kyu/Sort array.js" working-dir="$PROJECT_DIR$/8kyu">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.Sort array.js" />
+        <item itemvalue="Node.js.Friend or Foe.js" />
+        <item itemvalue="Node.js.Merge two sorted arrays.js" />
+        <item itemvalue="Node.js.Begineer-Map.js" />
         <item itemvalue="Node.js.Descending-order.js" />
-        <item itemvalue="Node.js.list-filtering.js" />
-        <item itemvalue="Node.js.sum-number.js" />
-        <item itemvalue="Node.js.an object.js" />
-        <item itemvalue="Node.js.object in array.js" />
       </list>
     </recent_temporary>
   </component>
@@ -165,7 +169,11 @@
       <workItem from="1762849939217" duration="2876000" />
       <workItem from="1762871526285" duration="1560000" />
       <workItem from="1763024517641" duration="1564000" />
-      <workItem from="1763026120451" duration="8756000" />
+      <workItem from="1763026120451" duration="10021000" />
+      <workItem from="1763060703930" duration="357000" />
+      <workItem from="1763061105647" duration="20000" />
+      <workItem from="1763061135519" duration="1547000" />
+      <workItem from="1763117014300" duration="3425000" />
     </task>
     <servers />
   </component>
