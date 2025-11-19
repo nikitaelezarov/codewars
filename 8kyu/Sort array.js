@@ -12,30 +12,36 @@
 // Test.assertDeepEquals(sortByLength(["Beg", "Life", "I", "To"]),["I", "To", "Beg", "Life"]);
 //Test.assertDeepEquals(sortByLength(["", "Moderately", "Brains", "Pizza"]),["", "Pizza", "Brains", "Moderately"]);
 //Test.assertDeepEquals(sortByLength(["Longer", "Longest", "Short"]),["Short", "Longer", "Longest"]);
-
-//✔🐱‍🚀❤SOLUTION
-function sortByLength(array) {
-    let newArray = array.sort((a, b) => a.length - b.length)
-    return newArray;
-}
+//
+// //✔🐱‍🚀❤SOLUTION
 // function sortByLength(array) {
-//     let newArray = [...array]; // создаем копию массива
-//
-//     // Пузырьковая сортировка по длине строк
-//     for (let i = 0; i < newArray.length - 1; i++) {
-//         for (let j = 0; j < newArray.length - 1 - i; j++) {
-//             if (newArray[j].length > newArray[j + 1].length) {
-//                 // Меняем местами
-//                 let temp = newArray[j];
-//                 newArray[j] = newArray[j + 1];
-//                 newArray[j + 1] = temp;
-//             }
-//         }
-//     }
-//
+//     let newArray = array.sort((a, b) => a.length - b.length)
 //     return newArray;
 // }
+// // function sortByLength(array) {
+// //     let newArray = [...array]; // создаем копию массива
+// //
+// //     // Пузырьковая сортировка по длине строк
+// //     for (let i = 0; i < newArray.length - 1; i++) {
+// //         for (let j = 0; j < newArray.length - 1 - i; j++) {
+// //             if (newArray[j].length > newArray[j + 1].length) {
+// //                 // Меняем местами
+// //                 let temp = newArray[j];
+// //                 newArray[j] = newArray[j + 1];
+// //                 newArray[j + 1] = temp;
+// //             }
+// //         }
+// //     }
+// //
+// //     return newArray;
+// // }
+//
+// console.log(sortByLength(["Beg", "Life", "I", "To"]));
+// console.log(sortByLength(["", "Moderately", "Brains", "Pizza"]));
+// console.log(sortByLength(["Longer", "Longest", "Short"]));
 
-console.log(sortByLength(["Beg", "Life", "I", "To"]));
-console.log(sortByLength(["", "Moderately", "Brains", "Pizza"]));
-console.log(sortByLength(["Longer", "Longest", "Short"]));
+var isPalindrome = function (x) {
+    if (x < 0) return false;
+    const str = x.toString();
+    return str === Str.split('').reverse().join('');
+};

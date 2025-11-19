@@ -5,11 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f404067c-a155-4c7e-ae84-3928beff6113" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/8kyu/Begineer-Map.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8kyu/Friend or Foe.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8kyu/Merge two sorted arrays.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8kyu/Sort array.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8kyu/Counting-sheep.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8kyu/Get the Middle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8kyu/Who-online.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/8kyu/Sort array.js" beforeDir="false" afterPath="$PROJECT_DIR$/8kyu/Sort array.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,8 +40,10 @@
     "Node.js.Array-plus-array.js.executor": "Run",
     "Node.js.Begineer-Map.js.executor": "Run",
     "Node.js.Convert boolean.js.executor": "Run",
+    "Node.js.Counting-sheep.js.executor": "Run",
     "Node.js.Descending-order.js.executor": "Run",
     "Node.js.Friend or Foe.js.executor": "Run",
+    "Node.js.Get the Middle.js.executor": "Run",
     "Node.js.Grasshopper - Terminal.js.executor": "Run",
     "Node.js.Grasshopper-terminal.js.executor": "Run",
     "Node.js.Integer-Array.js.executor": "Run",
@@ -51,6 +53,7 @@
     "Node.js.Reversed-Strings.js.executor": "Run",
     "Node.js.Sort array.js.executor": "Run",
     "Node.js.Sum-Array.js.executor": "Run",
+    "Node.js.Who-online.js.executor": "Run",
     "Node.js.an object.js.executor": "Run",
     "Node.js.an-array.js.executor": "Run",
     "Node.js.convert-nimber.js.executor": "Run",
@@ -80,29 +83,29 @@
       <recent name="C:\sanbox\codewars\8kyu" />
     </key>
   </component>
-  <component name="RunManager" selected="Node.js.Sort array.js">
-    <configuration name="Begineer-Map.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/8kyu/Begineer-Map.js" working-dir="$PROJECT_DIR$/8kyu">
+  <component name="RunManager" selected="Node.js.Get the Middle.js">
+    <configuration name="Counting-sheep.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/8kyu/Counting-sheep.js" working-dir="$PROJECT_DIR$/8kyu">
       <method v="2" />
     </configuration>
-    <configuration name="Descending-order.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/8kyu/Descending-order.js" working-dir="$PROJECT_DIR$/8kyu">
-      <method v="2" />
-    </configuration>
-    <configuration name="Friend or Foe.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/8kyu/Friend or Foe.js" working-dir="$PROJECT_DIR$/8kyu">
-      <method v="2" />
-    </configuration>
-    <configuration name="Merge two sorted arrays.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/8kyu/Merge two sorted arrays.js" working-dir="$PROJECT_DIR$/8kyu">
+    <configuration name="Get the Middle.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/8kyu/Get the Middle.js" working-dir="$PROJECT_DIR$/8kyu">
       <method v="2" />
     </configuration>
     <configuration name="Sort array.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/8kyu/Sort array.js" working-dir="$PROJECT_DIR$/8kyu">
       <method v="2" />
     </configuration>
+    <configuration name="Who-online.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/8kyu/Who-online.js" working-dir="$PROJECT_DIR$/8kyu">
+      <method v="2" />
+    </configuration>
+    <configuration name="an object.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/8kyu/an object.js" working-dir="$PROJECT_DIR$/8kyu">
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.Get the Middle.js" />
+        <item itemvalue="Node.js.Who-online.js" />
+        <item itemvalue="Node.js.Counting-sheep.js" />
+        <item itemvalue="Node.js.an object.js" />
         <item itemvalue="Node.js.Sort array.js" />
-        <item itemvalue="Node.js.Friend or Foe.js" />
-        <item itemvalue="Node.js.Merge two sorted arrays.js" />
-        <item itemvalue="Node.js.Begineer-Map.js" />
-        <item itemvalue="Node.js.Descending-order.js" />
       </list>
     </recent_temporary>
   </component>
@@ -173,7 +176,10 @@
       <workItem from="1763060703930" duration="357000" />
       <workItem from="1763061105647" duration="20000" />
       <workItem from="1763061135519" duration="1547000" />
-      <workItem from="1763117014300" duration="3425000" />
+      <workItem from="1763117014300" duration="8006000" />
+      <workItem from="1763488556284" duration="3551000" />
+      <workItem from="1763492217342" duration="1911000" />
+      <workItem from="1763546974567" duration="3011000" />
     </task>
     <servers />
   </component>
