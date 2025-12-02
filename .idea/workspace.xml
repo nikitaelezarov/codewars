@@ -5,11 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f404067c-a155-4c7e-ae84-3928beff6113" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/8kyu/Counting-sheep.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8kyu/Get the Middle.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8kyu/Who-online.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8kyu/Convert a Number to a String!.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8kyu/Convert an array of strings to array of numbers.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8kyu/Convert string an array.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8kyu/Parse nice int from char problem.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8kyu/Separate basic types.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8kyu/convert a string to a number.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/8kyu/Sort array.js" beforeDir="false" afterPath="$PROJECT_DIR$/8kyu/Sort array.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,7 +41,10 @@
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Node.js.Array-plus-array.js.executor": "Run",
     "Node.js.Begineer-Map.js.executor": "Run",
+    "Node.js.Convert a Number to a String!.js.executor": "Run",
+    "Node.js.Convert an array of strings to array of numbers.js.executor": "Run",
     "Node.js.Convert boolean.js.executor": "Run",
+    "Node.js.Convert string an array.js.executor": "Run",
     "Node.js.Counting-sheep.js.executor": "Run",
     "Node.js.Descending-order.js.executor": "Run",
     "Node.js.Friend or Foe.js.executor": "Run",
@@ -49,13 +54,16 @@
     "Node.js.Integer-Array.js.executor": "Run",
     "Node.js.Merge two sorted arrays.js.executor": "Run",
     "Node.js.Multiply.js.executor": "Run",
+    "Node.js.Parse nice int from char problem.js.executor": "Run",
     "Node.js.Return Negative.js.executor": "Run",
     "Node.js.Reversed-Strings.js.executor": "Run",
+    "Node.js.Separate basic types.js.executor": "Run",
     "Node.js.Sort array.js.executor": "Run",
     "Node.js.Sum-Array.js.executor": "Run",
     "Node.js.Who-online.js.executor": "Run",
     "Node.js.an object.js.executor": "Run",
     "Node.js.an-array.js.executor": "Run",
+    "Node.js.convert a string to a number.js.executor": "Run",
     "Node.js.convert-nimber.js.executor": "Run",
     "Node.js.if-function.js.executor": "Run",
     "Node.js.list-filtering.js.executor": "Run",
@@ -83,29 +91,29 @@
       <recent name="C:\sanbox\codewars\8kyu" />
     </key>
   </component>
-  <component name="RunManager" selected="Node.js.Get the Middle.js">
-    <configuration name="Counting-sheep.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/8kyu/Counting-sheep.js" working-dir="$PROJECT_DIR$/8kyu">
+  <component name="RunManager" selected="Node.js.Convert an array of strings to array of numbers.js">
+    <configuration name="Convert a Number to a String!.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/8kyu/Convert a Number to a String!.js" working-dir="$PROJECT_DIR$/8kyu">
       <method v="2" />
     </configuration>
-    <configuration name="Get the Middle.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/8kyu/Get the Middle.js" working-dir="$PROJECT_DIR$/8kyu">
+    <configuration name="Convert an array of strings to array of numbers.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/8kyu/Convert an array of strings to array of numbers.js" working-dir="$PROJECT_DIR$/8kyu">
       <method v="2" />
     </configuration>
-    <configuration name="Sort array.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/8kyu/Sort array.js" working-dir="$PROJECT_DIR$/8kyu">
+    <configuration name="Parse nice int from char problem.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/8kyu/Parse nice int from char problem.js" working-dir="$PROJECT_DIR$/8kyu">
       <method v="2" />
     </configuration>
-    <configuration name="Who-online.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/8kyu/Who-online.js" working-dir="$PROJECT_DIR$/8kyu">
+    <configuration name="Separate basic types.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/8kyu/Separate basic types.js" working-dir="$PROJECT_DIR$/8kyu">
       <method v="2" />
     </configuration>
-    <configuration name="an object.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/8kyu/an object.js" working-dir="$PROJECT_DIR$/8kyu">
+    <configuration name="convert a string to a number.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/8kyu/convert a string to a number.js" working-dir="$PROJECT_DIR$/8kyu">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Node.js.Get the Middle.js" />
-        <item itemvalue="Node.js.Who-online.js" />
-        <item itemvalue="Node.js.Counting-sheep.js" />
-        <item itemvalue="Node.js.an object.js" />
-        <item itemvalue="Node.js.Sort array.js" />
+        <item itemvalue="Node.js.Convert an array of strings to array of numbers.js" />
+        <item itemvalue="Node.js.Parse nice int from char problem.js" />
+        <item itemvalue="Node.js.convert a string to a number.js" />
+        <item itemvalue="Node.js.Convert a Number to a String!.js" />
+        <item itemvalue="Node.js.Separate basic types.js" />
       </list>
     </recent_temporary>
   </component>
@@ -179,7 +187,13 @@
       <workItem from="1763117014300" duration="8006000" />
       <workItem from="1763488556284" duration="3551000" />
       <workItem from="1763492217342" duration="1911000" />
-      <workItem from="1763546974567" duration="3011000" />
+      <workItem from="1763546974567" duration="4327000" />
+      <workItem from="1763561573694" duration="629000" />
+      <workItem from="1764099030398" duration="2160000" />
+      <workItem from="1764159964540" duration="1830000" />
+      <workItem from="1764256382922" duration="2988000" />
+      <workItem from="1764270358491" duration="515000" />
+      <workItem from="1764677993326" duration="3798000" />
     </task>
     <servers />
   </component>
