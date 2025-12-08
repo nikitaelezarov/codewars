@@ -5,12 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f404067c-a155-4c7e-ae84-3928beff6113" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/8kyu/Convert a Number to a String!.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8kyu/Convert an array of strings to array of numbers.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8kyu/Convert string an array.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8kyu/Parse nice int from char problem.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8kyu/Separate basic types.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8kyu/convert a string to a number.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8kyu/Are You Playing Banjo.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -39,6 +34,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Node.js.Are You Playing Banjo.js.executor": "Run",
     "Node.js.Array-plus-array.js.executor": "Run",
     "Node.js.Begineer-Map.js.executor": "Run",
     "Node.js.Convert a Number to a String!.js.executor": "Run",
@@ -91,7 +87,10 @@
       <recent name="C:\sanbox\codewars\8kyu" />
     </key>
   </component>
-  <component name="RunManager" selected="Node.js.Convert an array of strings to array of numbers.js">
+  <component name="RunManager" selected="Node.js.Are You Playing Banjo.js">
+    <configuration name="Are You Playing Banjo.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/8kyu/Are You Playing Banjo.js" working-dir="$PROJECT_DIR$/8kyu">
+      <method v="2" />
+    </configuration>
     <configuration name="Convert a Number to a String!.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/8kyu/Convert a Number to a String!.js" working-dir="$PROJECT_DIR$/8kyu">
       <method v="2" />
     </configuration>
@@ -101,19 +100,16 @@
     <configuration name="Parse nice int from char problem.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/8kyu/Parse nice int from char problem.js" working-dir="$PROJECT_DIR$/8kyu">
       <method v="2" />
     </configuration>
-    <configuration name="Separate basic types.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/8kyu/Separate basic types.js" working-dir="$PROJECT_DIR$/8kyu">
-      <method v="2" />
-    </configuration>
     <configuration name="convert a string to a number.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/8kyu/convert a string to a number.js" working-dir="$PROJECT_DIR$/8kyu">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.Are You Playing Banjo.js" />
         <item itemvalue="Node.js.Convert an array of strings to array of numbers.js" />
         <item itemvalue="Node.js.Parse nice int from char problem.js" />
         <item itemvalue="Node.js.convert a string to a number.js" />
         <item itemvalue="Node.js.Convert a Number to a String!.js" />
-        <item itemvalue="Node.js.Separate basic types.js" />
       </list>
     </recent_temporary>
   </component>
@@ -193,7 +189,10 @@
       <workItem from="1764159964540" duration="1830000" />
       <workItem from="1764256382922" duration="2988000" />
       <workItem from="1764270358491" duration="515000" />
-      <workItem from="1764677993326" duration="3798000" />
+      <workItem from="1764677993326" duration="3912000" />
+      <workItem from="1764686722877" duration="30000" />
+      <workItem from="1764686830588" duration="23000" />
+      <workItem from="1765192205020" duration="1942000" />
     </task>
     <servers />
   </component>
