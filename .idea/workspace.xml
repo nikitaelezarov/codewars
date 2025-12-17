@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f404067c-a155-4c7e-ae84-3928beff6113" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/8kyu/Are You Playing Banjo.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8kyu/Sum a list but ignore any duplicates.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -31,57 +31,57 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "Node.js.Are You Playing Banjo.js.executor": "Run",
-    "Node.js.Array-plus-array.js.executor": "Run",
-    "Node.js.Begineer-Map.js.executor": "Run",
-    "Node.js.Convert a Number to a String!.js.executor": "Run",
-    "Node.js.Convert an array of strings to array of numbers.js.executor": "Run",
-    "Node.js.Convert boolean.js.executor": "Run",
-    "Node.js.Convert string an array.js.executor": "Run",
-    "Node.js.Counting-sheep.js.executor": "Run",
-    "Node.js.Descending-order.js.executor": "Run",
-    "Node.js.Friend or Foe.js.executor": "Run",
-    "Node.js.Get the Middle.js.executor": "Run",
-    "Node.js.Grasshopper - Terminal.js.executor": "Run",
-    "Node.js.Grasshopper-terminal.js.executor": "Run",
-    "Node.js.Integer-Array.js.executor": "Run",
-    "Node.js.Merge two sorted arrays.js.executor": "Run",
-    "Node.js.Multiply.js.executor": "Run",
-    "Node.js.Parse nice int from char problem.js.executor": "Run",
-    "Node.js.Return Negative.js.executor": "Run",
-    "Node.js.Reversed-Strings.js.executor": "Run",
-    "Node.js.Separate basic types.js.executor": "Run",
-    "Node.js.Sort array.js.executor": "Run",
-    "Node.js.Sum-Array.js.executor": "Run",
-    "Node.js.Who-online.js.executor": "Run",
-    "Node.js.an object.js.executor": "Run",
-    "Node.js.an-array.js.executor": "Run",
-    "Node.js.convert a string to a number.js.executor": "Run",
-    "Node.js.convert-nimber.js.executor": "Run",
-    "Node.js.if-function.js.executor": "Run",
-    "Node.js.list-filtering.js.executor": "Run",
-    "Node.js.object in array.js.executor": "Run",
-    "Node.js.sum-arrayss.js.executor": "Run",
-    "Node.js.sum-number.js.executor": "Run",
-    "Node.js.sum-yss.js.executor": "Run",
-    "Node.js.types--Object.js.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/sanbox/codewars/8kyu",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.pathVariables",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Node.js.Are You Playing Banjo.js.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.Array-plus-array.js.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.Begineer-Map.js.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.Convert a Number to a String!.js.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.Convert an array of strings to array of numbers.js.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.Convert boolean.js.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.Convert string an array.js.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.Counting-sheep.js.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.Descending-order.js.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.Friend or Foe.js.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.Get the Middle.js.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.Grasshopper - Terminal.js.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.Grasshopper-terminal.js.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.Integer-Array.js.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.Merge two sorted arrays.js.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.Multiply.js.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.Parse nice int from char problem.js.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.Return Negative.js.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.Reversed-Strings.js.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.Separate basic types.js.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.Sort array.js.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.Sum-Array.js.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.Who-online.js.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.an object.js.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.an-array.js.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.convert a string to a number.js.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.convert-nimber.js.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.if-function.js.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.list-filtering.js.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.object in array.js.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.sum-arrayss.js.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.sum-number.js.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.sum-yss.js.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.types--Object.js.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/sanbox/codewars/8kyu&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pathVariables&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\sanbox\codewars\8kyu" />
@@ -192,7 +192,8 @@
       <workItem from="1764677993326" duration="3912000" />
       <workItem from="1764686722877" duration="30000" />
       <workItem from="1764686830588" duration="23000" />
-      <workItem from="1765192205020" duration="1942000" />
+      <workItem from="1765192205020" duration="2477000" />
+      <workItem from="1765984117430" duration="370000" />
     </task>
     <servers />
   </component>
